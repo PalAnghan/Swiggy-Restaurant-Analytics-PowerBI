@@ -8,7 +8,7 @@ This project demonstrates how raw restaurant data can be transformed into meanin
 
 ## 📊 Dashboard Preview
 
-![Swiggy Restaurant Analytics Dashboard](dashboard-preview.jpeg)
+![Swiggy Restaurant Analytics Dashboard](Swiggy_Restaurant_Analytics_Portfolio/dashboard-preview.jpeg)
 
 ## 🎯 Business Objectives
 
